@@ -2,6 +2,8 @@
 
 ![Pi Day 2016](PiDay2016.png)
 
+Pi Day 2018 has to celebrated in style.
+
 ## What to bring
 
 Street chalk (NL: 'Stoepkrijt'). See FAQ below.
@@ -21,12 +23,6 @@ When no more street chalk|Go home, sleep, enjoy Pi Day
 ## Last year's route
 
 ![Route we took last year](route.png)
-
-## Earlier years
-
-One example how are described in the news:
-
-![](PiDay2015.png)
 
 ## FAQ
 
@@ -59,3 +55,7 @@ during working hours.
 
 Usually not. Instead, we collect screenshots of
 social media responses.
+
+One example how are described in the news:
+
+![](PiDay2015.png)
