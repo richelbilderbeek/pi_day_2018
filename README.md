@@ -24,7 +24,7 @@ When no more street chalk|Go home, sleep, enjoy Pi Day
 
 ## Earlier years
 
-One example how are pi
+One example how are described in the news:
 
 ![](PiDay2015.png)
 
@@ -54,3 +54,8 @@ we abandon this celebration and go back to sleep
 
 We go back to sleep, so we can be fit on Pi Day
 during working hours.
+
+### Do you make pictures?
+
+Usually not. Instead, we collect screenshots of
+social media responses.
