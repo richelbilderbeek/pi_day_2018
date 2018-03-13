@@ -1,5 +1,7 @@
 # Pi Day 2018
 
+![Pi Day 2016](PiDay2016.png)
+
 ## What to bring
 
 Street chalk (NL: 'Stoepkrijt'). See FAQ below.
