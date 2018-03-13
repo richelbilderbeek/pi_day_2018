@@ -2,7 +2,7 @@
 
 ## What to bring
 
-Bring street chalk. One box is fine.
+Street chalk (NL: 'Stoepkrijt'). See FAQ below.
 
 ## Timetable
 
@@ -25,3 +25,30 @@ When no more street chalk|Go home, sleep, enjoy Pi Day
 One example how are pi
 
 ![](PiDay2015.png)
+
+## FAQ
+
+### What will you do during the event?
+
+We will write pi symbols on the street with
+street chalk. When with a group, we usually
+split the street into sections (left, right,
+middle), that each person will write his/her
+pi symbols on.
+
+### Do I need to bring street chalk?
+
+Preferably yes. But we will be happy to share
+out stash of street chalk with anyone to join
+in on the celabration, so we can go back to
+sleep earlier.
+
+### What if it rains?
+
+If street chalk is useless against the weather, 
+we abandon this celebration and go back to sleep
+
+### What do you do after the celebration?
+
+We go back to sleep, so we can be fit on Pi Day
+during working hours.
