@@ -1,15 +1,26 @@
 # Pi Day 2018
 
-Pi Day 2018 has to celebrated in style.
+Pi Day 2018 has to celebrated in style!
+
 This year, the crew consisted of B.S-B., M.B., M.P., R.B. and T.P. 
+
+Sometimes we explicitly wished people a happy Pi Day:
 
 ![](5.jpg)
 
+The pi symbol was drawn with the most constrasting colors:
+
 ![](1.jpg)
+
+Sometimes the team spreads out:
 
 ![](2.jpg)
 
+Sometimes the team cooperates to make a big pi:
+
 ![](3.jpg)
+
+The big pi at the Grote Markt went completely wrong...
 
 ![](4.jpg)
 
