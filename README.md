@@ -4,6 +4,9 @@
 
 Pi Day 2018 has to celebrated in style.
 
+This year, the crew consisted of B.S-B., M.B., M.P., R.B. and T.P. 
+See pictures below.
+
 ## What to bring
 
 Street chalk (NL: 'Stoepkrijt'). See FAQ below.
@@ -51,11 +54,16 @@ we abandon this celebration and go back to sleep
 We go back to sleep, so we can be fit on Pi Day
 during working hours.
 
-### Do you make pictures?
+## Pictures!
 
-Usually not. Instead, we collect screenshots of
-social media responses.
+![](1.jpg)
 
-One example how are described in the news:
+![](2.jpg)
 
-![](PiDay2015.png)
+![](3.jpg)
+
+![](4.jpg)
+
+![](5.jpg)
+
+
