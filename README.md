@@ -34,13 +34,13 @@ When|What
 ---|---
 Tuesday March 13th 2018 23:57 (pi minutes before midnight)|Gather at bus stop P at Central Station Groningen
 Wednesday March 14th 2018 00:03 (pi minutes after midnight)|Go into the city centre, write pi on street with street chalk
-When no more street chalk|Go home, sleep, enjoy Pi Day
+When no more street chalk, at around 1:23|Go home, sleep, enjoy Pi Day
 
 ## Where we gather
 
 ![Map where we gather](map.png)
 
-## Last year's route
+## 2017's route
 
 ![Route we took last year](route.png)
 
@@ -70,3 +70,11 @@ we abandon this celebration and go back to sleep
 
 We go back to sleep, so we can be fit on Pi Day
 during working hours.
+
+### What does the police think about this?
+
+During these events (Pi Day and Pi Approximation Day),
+we usually encounter the police once. This Pi Day, 
+we met them at the Grote Markt. After a friendly
+conversation, they wished us a happy Pi Day and
+left. 
