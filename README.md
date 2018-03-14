@@ -1,11 +1,17 @@
 # Pi Day 2018
 
-![Pi Day 2016](PiDay2016.png)
-
 Pi Day 2018 has to celebrated in style.
-
 This year, the crew consisted of B.S-B., M.B., M.P., R.B. and T.P. 
-See pictures below.
+
+![](5.jpg)
+
+![](1.jpg)
+
+![](2.jpg)
+
+![](3.jpg)
+
+![](4.jpg)
 
 ## What to bring
 
@@ -53,17 +59,3 @@ we abandon this celebration and go back to sleep
 
 We go back to sleep, so we can be fit on Pi Day
 during working hours.
-
-## Pictures!
-
-![](1.jpg)
-
-![](2.jpg)
-
-![](3.jpg)
-
-![](4.jpg)
-
-![](5.jpg)
-
-
