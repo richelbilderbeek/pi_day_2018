@@ -24,6 +24,15 @@ The big pi at the Grote Markt went completely wrong...
 
 ![](4.jpg)
 
+![](6.jpg)
+![](7.jpg)
+![](8.jpg)
+![](9.jpg)
+
+Informing the police about Pi Day:
+
+![](10.jpg)
+
 ## What to bring
 
 Street chalk (NL: 'Stoepkrijt'). See FAQ below.
