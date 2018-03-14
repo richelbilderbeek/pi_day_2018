@@ -11,6 +11,7 @@ Sometimes we explicitly wished people a happy Pi Day:
 The pi symbol was drawn with the most constrasting colors:
 
 ![](1.jpg)
+![](6.jpg)
 
 Sometimes the team spreads out:
 
@@ -19,15 +20,16 @@ Sometimes the team spreads out:
 Sometimes the team cooperates to make a big pi:
 
 ![](3.jpg)
+![](9.jpg)
+
+Sometimes that works out well:
+
+![](7.jpg)
+![](8.jpg)
 
 The big pi at the Grote Markt went completely wrong...
 
 ![](4.jpg)
-
-![](6.jpg)
-![](7.jpg)
-![](8.jpg)
-![](9.jpg)
 
 Informing the police about Pi Day:
 
