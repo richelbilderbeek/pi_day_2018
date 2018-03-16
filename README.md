@@ -35,6 +35,10 @@ Informing the police about Pi Day:
 
 ![](10.jpg)
 
+A tweet:
+
+![](twitter.png)
+
 ## What to bring
 
 Street chalk (NL: 'Stoepkrijt'). See FAQ below.
